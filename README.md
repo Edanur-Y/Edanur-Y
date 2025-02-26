@@ -1,4 +1,4 @@
-### Introducing Myself👋
+### Introducing Myself👋 
 
 Hello, I'm Edanur. Currently doing my Bachelor's in Statistics.  
 
@@ -10,7 +10,7 @@ Hello, I'm Edanur. Currently doing my Bachelor's in Statistics.
 Welcome to my [portfolio](https://github.com/Edanur-Y/Portfolio-Guide), where I showcase my projects.
 
 🔧 Tools  
-Languages: R, Python
+Languages: R, Python  
 Visualization: Tableau, PowerBI
 
 🔗 Connect with Me
