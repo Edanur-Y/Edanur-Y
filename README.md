@@ -7,13 +7,13 @@ Hello, I'm Edanur. Currently doing my Bachelor's in Statistics.
 - Taking a Database Management lesson at the moment! (MSSQL)
 
 💻 Projects  
-Welcome to my [portfolio](https://github.com/Edanur-Y/Portfolio-Guide), where I showcase my projects.
+Check my [portfolio](https://github.com/Edanur-Y/Portfolio-Guide)!
 
 🔧 Tools  
 Languages: R, Python  
 Visualization: Tableau, PowerBI
 
-🔗 Connect with Me
+🔗 Connect with Me  
 [Linkedin](https://www.linkedin.com/in/ledanuryilmazl/)
 
 <!--
