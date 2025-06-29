@@ -11,7 +11,7 @@ Check my [portfolio](https://github.com/Edanur-Y/Portfolio-Guide)!
 
 🔧 Tools  
 Languages: R, Python  
-Visualization: Tableau, PowerBI
+Visualization: Tableau, PowerBI  
 Database: MSSQL
 
 🔗 Connect with Me  
