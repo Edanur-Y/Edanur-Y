@@ -1,10 +1,10 @@
 ### Introducing Myself👋 
 
-Hello, I'm Edanur. Currently doing my Bachelor's in Statistics.  
+Hello, I'm Edanur. I recently completed my Bachelor's program in Statistics.  
 
-- Performing data analysis using R, Python and SPSS and generating reports.  
+- Performing data analysis using R, Python, SPSS and generating reports.  
 - Visualizing data using Tableau and PowerBI.  
-- Taking a Database Management lesson at the moment! (MSSQL)
+- Creating and managing databases using MSSQL.
 
 💻 Projects  
 Check my [portfolio](https://github.com/Edanur-Y/Portfolio-Guide)!
@@ -12,6 +12,7 @@ Check my [portfolio](https://github.com/Edanur-Y/Portfolio-Guide)!
 🔧 Tools  
 Languages: R, Python  
 Visualization: Tableau, PowerBI
+Database: MSSQL
 
 🔗 Connect with Me  
 [Linkedin](https://www.linkedin.com/in/ledanuryilmazl/)
